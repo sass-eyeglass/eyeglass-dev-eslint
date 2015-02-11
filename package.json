@@ -1,7 +1,7 @@
 {
   "name": "eyeglass-dev-eslint",
   "description": "ESLint Rules for eyeglass",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "The eyeglass team and contributors",
     "url": "https://github.com/sass-eyeglass/eyeglass-dev-eslint/graphs/contributors"
@@ -11,5 +11,9 @@
   "README": "README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sass-eyeglass/eyeglass-dev-eslint.git"
   }
 }
