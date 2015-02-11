@@ -1,0 +1,15 @@
+{
+  "name": "eyeglass-dev-eslint",
+  "description": "ESLint Rules for eyeglass",
+  "version": "0.0.1",
+  "author": {
+    "name": "The eyeglass team and contributors",
+    "url": "https://github.com/sass-eyeglass/eyeglass-dev-eslint/graphs/contributors"
+  },
+  "license": "Apache License 2.0",
+  "main": "index.js",
+  "README": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
