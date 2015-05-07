@@ -19,7 +19,10 @@
     "no-mixed-spaces-and-tabs": 2,
     "no-trailing-spaces": 2,
     "no-use-before-define": [2, "nofunc"],
-    "no-unused-vars": 1,
+    "no-unused-vars": [1, {
+      "vars": "all",
+      "args": "none"
+    }],
     "quotes": [2, "double", "avoid-escape"],
     "semi": [2, "always"],
     "space-after-keywords": [2, "always"],
