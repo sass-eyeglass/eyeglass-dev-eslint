@@ -1,7 +1,7 @@
 {
   "name": "eyeglass-dev-eslint",
   "description": "ESLint Rules for eyeglass",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "author": {
     "name": "The eyeglass team and contributors",
     "url": "https://github.com/sass-eyeglass/eyeglass-dev-eslint/graphs/contributors"
