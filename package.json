@@ -15,5 +15,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/sass-eyeglass/eyeglass-dev-eslint.git"
+  },
+  "dependencies": {
+    "eslint": "^1.0.0"
   }
 }
