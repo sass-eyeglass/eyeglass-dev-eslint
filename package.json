@@ -6,7 +6,7 @@
     "name": "The eyeglass team and contributors",
     "url": "https://github.com/sass-eyeglass/eyeglass-dev-eslint/graphs/contributors"
   },
-  "license": "Apache License 2.0",
+  "license": "Apache-2.0",
   "main": "index.js",
   "README": "README.md",
   "scripts": {
@@ -17,6 +17,6 @@
     "url": "https://github.com/sass-eyeglass/eyeglass-dev-eslint.git"
   },
   "dependencies": {
-    "eslint": "^1.0.0"
+    "eslint": "^1.1.0"
   }
 }
