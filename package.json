@@ -10,7 +10,7 @@
   "main": "index.js",
   "README": "README.md",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "eslint test/fixtures/*.js"
   },
   "repository": {
     "type": "git",
